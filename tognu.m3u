@@ -14,6 +14,10 @@ http://45.189.62.33:8002/play/a0cc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MEXICO",Azteca UNO -1 hora (720p)
 https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
 
+#EXTINF:-1 tvg-id="Canal5.mx@SD" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="MEXICO",Canal 5 (1080p)
+http://45.181.87.106/CANAL5HD/index.m3u8
+#EXTINF:-1 tvg-id="Canal5.uy@SD" tvg-logo="https://i.imgur.com/IpYxSr1.png" group-title="MEXICO",Canal 5 (720p)
+https://tinyurl.com/canal5uy
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV ENG",FOX Sports (1080p)
