@@ -19,6 +19,9 @@ http://45.181.87.106/CANAL5HD/index.m3u8
 #EXTINF:-1 tvg-id="Canal5.uy@SD" tvg-logo="https://i.imgur.com/IpYxSr1.png" group-title="MEXICO",Canal 5 (720p)
 https://tinyurl.com/canal5uy
 
+#EXTINF:-1 tvg-id="XEIPNTDT.mx@SD" tvg-logo="https://i.imgur.com/K0351vF.png" group-title="MEXICO",Once México (1080p)
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV ENG",FOX Sports (1080p)
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
