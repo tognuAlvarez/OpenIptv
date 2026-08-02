@@ -1,6 +1,4 @@
 #EXTM3U
-
-
 #EXTINF:-1 group-title="MEXICO", MX: AZTECA INTERNACIONAL
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 group-title="MEXICO", MX: LAS ESTRELLAS
@@ -12,8 +10,8 @@ http://45.228.234.167:8000/play/a0ll/index.m3u8
 #EXTINF:-1 group-title="MEXICO, MX: MULTIMEDIOS CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
-***** #EXTINF:-1 group-title="MEXICO", MX: NU9VE
-***** https://channel06-onlymex.akamaized.net/hls/live/2033784/event01/index.m3u8
+#EXTINF:-1 group-title="MEXICO", MX: NU9VE
+https://channel06-onlymex.akamaized.net/hls/live/2033784/event01/index.m3u8
 #EXTINF:-1 group-title="MEXICO", MX: ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1  group-title="MEXICO", MX: A+
