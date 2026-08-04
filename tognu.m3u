@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1tvg-name="AZTECA UNO (🇲🇽)" tvg-logo="https://i.postimg.cc/TYsbG0qK/azteca-uno.png"group-title="MEXICO",AZTECA UNO MEXICO (🇲🇽)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
+#EXTINF:-1tvg-name="AZTECA UNO (🇲🇽)" tvg-logo="https://i.postimg.cc/yNFxS8hw/AZTECA-UNO-SEP.png"group-title="MEXICO",AZTECA UNO MEXICO (🇲🇽)
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
+
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="AZTECA UNO -1 HORA  (HD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png"  group-title="MEXICO", Azteca Uno
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 
