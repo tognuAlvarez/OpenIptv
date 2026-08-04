@@ -9,7 +9,7 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="Milenio Televisión" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_603-400x360.png"  group-title="Noticias", Milenio Televisión
+#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="Milenio Televisión" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_603-400x360.png"  group-title="MEXICO", Milenio Televisión
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Capital 21 CDMX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/506425-8c.png" group-title="MEXICO",Capital 21
 https://s5.mexside.net:1936/respaldo/respaldo/chunklist_w390601932.m3u8
@@ -54,7 +54,7 @@ http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 
 #EXTINF:-1 tvg-id="Videorola.mx" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/videorolla.png" group-title="MEXICO", VIDEOROLA
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
-#EXTINF:-1 tvg-id="Megaoticias.mx" tvg-logo="" group-title="Noticias", Meganoticias MX
+#EXTINF:-1 tvg-id="Megaoticias.mx" tvg-logo="" group-title="MEXICO", Meganoticias MX
 https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
 
 
