@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="MEXICO", AZTECA UNO 1.1 -1h
+#EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="MEXICO", AZTECA UNO 1.1 
 https://mdstrm.com/live-stream-gdai/609b243156cca108312822a6/linear/hls/pa/event/ZiyeO1LFRfG1k2-GZ5TgEg/stream/571e00be-d612-4cb4-961f-d5d444d7aff6:CHS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MEXICO",Azteca UNO -1 hora (720p)
 https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
