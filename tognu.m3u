@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="AZTECA UNO OK  (HD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png"  group-title="MEXICO", Azteca Uno
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="AZTECA UNO -1 HORA  (HD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png"  group-title="MEXICO", Azteca Uno
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MEXICO",Azteca UNO -1 hora (720p)
