@@ -3,15 +3,39 @@
 
 #EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="MEXICO", AZTECA UNO 1.1 -1h
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MEXICO",Azteca UNO -1 hora (720p)
+https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MEXICO",Azteca UNO -1 hora (720p)
+https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
+#EXTINF:-1 group-title="MEXICO", MX: AZTECA INTERNACIONAL
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="APRENDETV" tvg-name="AZTECA 7.2" tvg-logo="http://codiceenlinea.com/wp-content/uploads/2020/08/Aprende-en-Casa_2_LOGO2-792x445.png" group-title="MEXICO", AZ+ 7.2 
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
+#EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="MEXICO",Las Estrellas (1080p)
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
+#EXTINF:-1 group-title="MEXICO", MX: LAS ESTRELLAS
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="MEXICO", LAS ESTRELLAS 2.1 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 
-#EXTINF:-1 group-title="MEXICO", STINGRAY CLASSICA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="MEXICO", IMAGEN TV+
+https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="MEXICO", ONCE MÉXICO 1.11
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b2098304.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="MEXICO", ONCE.3 Señal Digital 
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8?
+
+
+
+
+#EXTINF:-1 group-title="PLUTO TV", STINGRAY CLASSICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 group-title="MEXICO", EWTN
+#EXTINF:-1 group-title="PLUTO TV", EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/l4hjmzyf/720/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="MEXICO", TELERITMO 6.3
@@ -36,7 +60,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
 
-#EXTINF:-1 group-title="MEXICO", TUDN Usa
+#EXTINF:-1 group-title="PLUTO TV ENG", TUDN Usa
 http://200.115.120.1:8000/play/ca039/index.m3u8
 
 
@@ -58,23 +82,17 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8?
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="MEXICO", IMAGEN TV+
-https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 
 
-#EXTINF:-1 tvg-id="APRENDETV" tvg-name="AZTECA 7.2" tvg-logo="http://codiceenlinea.com/wp-content/uploads/2020/08/Aprende-en-Casa_2_LOGO2-792x445.png" group-title="MEXICO", AZ+ 7.2 
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://mvstv.com/wp-content/uploads/2020/08/cropped-mvstv_logo_wt-3.png" group-title="MEXICO", MVS TV 6.4
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="MEXICO", ONCE.3 Señal Digital 
-https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8?
 
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="MEXICO", ONCE MÉXICO 1.11
-https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b2098304.m3u8
+
 
 
 
@@ -86,27 +104,27 @@ https://s5.mexside.net:1936/tvmigrante/tvmigrante/chunklist_w850318408.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.1-Guanajuato-en-vivo-Online-218x150.png" group-title="MEXICO", GTO TV4.1 UHD
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.1-Guanajuato-en-vivo-Online-218x150.png" group-title="REGIONAL", GTO TV4.1 UHD
 https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.2-Guanajuato-en-vivo-Online-218x150.png" group-title="MEXICO", GTO TV4.2 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.2-Guanajuato-en-vivo-Online-218x150.png" group-title="REGIONAL", GTO TV4.2 
 https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.2-Guanajuato-en-vivo-Online-218x150.png" group-title="MEXICO", GTO TV4.2 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.2-Guanajuato-en-vivo-Online-218x150.png" group-title="REGIONAL", GTO TV4.2 
 https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.3-Guanajuato-en-vivo-Online-218x150.png" group-title="MEXICO", GTO TV4.3 UHD 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.3-Guanajuato-en-vivo-Online-218x150.png" group-title="REGIONAL", GTO TV4.3 UHD 
 https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.1-Guanajuato-en-vivo-Online-218x150.png" group-title="MEXICO", GTO TV4.4 UHD 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.1-Guanajuato-en-vivo-Online-218x150.png" group-title="REGIONAL", GTO TV4.4 UHD 
 https://5ca3e84a76d30.streamlock.net/tv44gto/smil:tv44gto.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="MEXICO", EXPRESA TV CELAYA 
+#EXTINF:-1 group-title="REGIONAL", EXPRESA TV CELAYA 
 https://5ca9af4645e15.streamlock.net:443/teleradio/smil:teleradio.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i4N1CVp.png" group-title="MEXICO", CHP Canal 10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i4N1CVp.png" group-title="REGIONAL", CHP Canal 10
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 
 
@@ -128,13 +146,13 @@ https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/.m3u8
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online-218x150.png" group-title="MEXICO", CANAL 26 AGUASCALIENTES 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online-218x150.png" group-title="REGIONAL", CANAL 26 AGUASCALIENTES 
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/chunklist_w1756871323.m3u8
 
-#EXTINF:-1 group-title="MEXICO", CGTN ESPAÑOL 
+#EXTINF:-1 group-title="PLUTO TV", CGTN ESPAÑOL 
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="MEXICO", FR FRANCE24 UHD
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="PLUTO TV", FR FRANCE24 UHD
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 
 
@@ -237,10 +255,6 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 
-#EXTINF:-1 group-title="MEXICO", MX: AZTECA INTERNACIONAL
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 group-title="MEXICO", MX: LAS ESTRELLAS
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 group-title="MEXICO", MX: CANAL 5
 http://45.228.234.167:8000/play/a0ll/index.m3u8
@@ -275,8 +289,7 @@ https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
 #EXTINF:-1 tvg-id="AztecaInternacional.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="MEXICO",Azteca Internacional (1080p)
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MEXICO",Azteca UNO -1 hora (720p)
-https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
+
 
 
 #EXTINF:-1 tvg-id="DogtheBountyHunter.us@US" tvg-logo="https://i.imgur.com/lMICupK.png" group-title="PLUTO TV ENG",Dog the Bounty Hunter (1080p)
@@ -469,8 +482,6 @@ https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
 https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
 #EXTINF:-1 tvg-id="AztecaInternacional.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="MEXICO",Azteca Internacional (1080p)
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MEXICO",Azteca UNO -1 hora (720p)
-https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="PLUTO TV",Caracol TV (1080p)
 http://138.121.15.230:9002/CARACOL/index.m3u8
@@ -522,8 +533,6 @@ https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.
 #EXTINF:-1 tvg-id="JusticiaTV.mx@SD" tvg-logo="https://i.imgur.com/zyAS1hk.png" group-title="MEXICO",Justicia TV (720p)
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="MEXICO",Las Estrellas (1080p)
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="LoboTV.mx@SD" tvg-logo="https://i.imgur.com/3fA50RJ.png" group-title="REGIONAL",Lobo TV (720p)
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
