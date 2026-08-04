@@ -1,8 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqS_l4XX9zxTXAIZ77Ee-yyOpE1CpOoO7RtDem_WlFzB51GrbSRYnjSSGXyJPF_0M-074nN68k_adLWzKxwUIg1J96AxLjV8bXvp5UowlDK9YArV_b56U115HfYxs93fMiObpBNxL00iTT4XNLbVK8OFSP8p0jik7oPEBS84-HXaN-iMy3sC55sh8wBL4/s997/aztuno.png" group-title="MEXICO", AZTECA UNO
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqS_l4XX9zxTXAIZ77Ee-yyOpE1CpOoO7RtDem_WlFzB51GrbSRYnjSSGXyJPF_0M-074nN68k_adLWzKxwUIg1J96AxLjV8bXvp5UowlDK9YArV_b56U115HfYxs93fMiObpBNxL00iTT4XNLbVK8OFSP8p0jik7oPEBS84-HXaN-iMy3sC55sh8wBL4/s997/aztuno.png" group-title="MEXICO", AZTECA UNO(opcion 2)
-http://138.59.177.34:8000/play/a07o/index.m3u8
+
 
 #EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVSTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="MEXICO",MVSTV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
