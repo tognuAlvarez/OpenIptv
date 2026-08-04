@@ -5,8 +5,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MEXICO",Azteca UNO -1 hora (720p)
 https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MEXICO",Azteca UNO -1 hora (720p)
-https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
+
 #EXTINF:-1 group-title="MEXICO", MX: AZTECA INTERNACIONAL
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="APRENDETV" tvg-name="AZTECA 7.2" tvg-logo="http://codiceenlinea.com/wp-content/uploads/2020/08/Aprende-en-Casa_2_LOGO2-792x445.png" group-title="MEXICO", AZ+ 7.2 
