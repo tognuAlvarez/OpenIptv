@@ -16,6 +16,9 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="APRENDETV" tvg-name="AZTECA 7.2" tvg-logo="http://codiceenlinea.com/wp-content/uploads/2020/08/Aprende-en-Casa_2_LOGO2-792x445.png" group-title="MEXICO", AZ+ 7.2 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
+#EXTINF:-1tvg-name="C4 EN ALERTA (🇲🇽)" tvg-logo="https://i.postimg.cc/TPY7q1G6/C4-En-Alerta.png"group-title="MEXICO",C4 EN ALERTA MEXICO (🇲🇽)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420
+
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (excepto pelis)" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_06/small.74835190079.png.f56373a3b38ea18c2c66ef37615a45b4.png"  group-title="MEXICO", Las Estrellas (excepto pelis)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
