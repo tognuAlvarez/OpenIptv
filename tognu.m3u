@@ -810,8 +810,7 @@ https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3
 #EXTINF:-1 tvg-id="PrensaLatinaTV.cu@SD" tvg-logo="https://i.imgur.com/jbm2S9O.jpg" group-title="MEXICO",Prensa Latina TV (1080p)
 https://eu1.servers10.com:8081/8192/index.m3u8
 
-#EXTINF:-1 tvg-id="OlympicChannel.es@SD" tvg-logo="https://i.imgur.com/wPQVVtj.png" group-title="Sports",Olympics Channel (1080p) [Geo-blocked]
-https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_1.m3u8
+
 
 
 
